@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+streamlit
+flask
+firebase-admin
+plotly
+sentence-transformers
+torch
+nltk
+regex
+streamlit-sortables
